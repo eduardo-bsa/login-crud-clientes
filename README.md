@@ -39,5 +39,4 @@ INSERT INTO login VALUES ('test', 'test');
  
  ### Padrões usados
  - MVC
- -  Front Controller
- -  Command
+ - Front Controller
