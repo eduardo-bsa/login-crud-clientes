@@ -1,10 +1,10 @@
-# Pós graduação em Engenharia de software
+# Pós-Graduação em Engenharia de software
 ## Disciplina de Projeto e Implementação OO
 > Aluno
 Eduardo Bastos de Sá
 
-> Objetivos
-O aluno deverá ser capaz de desenvolver um sistema que realize as operações CRUD e controle sessão de usuário para Web seguindo os padrões MVC II, Front Controller e Command.
+> Objetivos:
+ o aluno deverá ser capaz de desenvolver um sistema que realize as operações CRUD e controle sessão de usuário para Web seguindo os padrões MVC II, Front Controller e Command.
  
  ### Aplicativo desenvolvido
 Após feito o login, o usuário consegue visualizar, inserir, alterar e excluir clientes.
